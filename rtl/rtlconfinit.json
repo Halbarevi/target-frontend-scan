@@ -1,0 +1,26 @@
+{
+  "defaultNodeIndex": 1,
+  "selectedNodeIndex": 1,
+  "sso": {
+    "rtlSSO": 0,
+    "logoutRedirectLink": ""
+  },
+  "enable2FA": true,
+  "allowPasswordUpdate": true,
+  "nodes": [
+    {
+      "index": 1,
+      "lnNode": "REDACTED",
+      "lnImplementation": "LND",
+      "settings": {
+        "unannouncedChannels": false,
+        "userPersona": "OPERATOR",
+        "themeMode": "NIGHT",
+        "themeColor": "INDIGO",
+        "fiatConversion": true,
+        "currencyUnit": "USD"
+      },
+      "authentication": {}
+    }
+  ]
+}
